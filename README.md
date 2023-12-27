@@ -1,6 +1,5 @@
-# Welcome to Shubham Arora's GitHub Profile! 👋
-
-Hello there! I'm Shubham Arora, a passionate Full Stack Developer. Welcome to my GitHub profile, where I share my projects, contributions, and interests in the world of technology.
+# Shubham Arora
+passionate Full Stack Developer
 
 ## About Me
 
