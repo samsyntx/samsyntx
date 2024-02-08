@@ -8,7 +8,7 @@ Hello there! I'm Shubham Arora, a certified Full Stack Developer currently worki
 - 🎥 I create coding tutorial videos on YoutTube at [YouTube](https://www.youtube.com/@webwiserin)
 - 👨‍💻 Building a Platform name as Web Wiser Technologies to provide study material and usefull resources [webwiser.in](https://www.webwiser.in/).
 - 💬 Ask me about JavaScript, MERN, SERN and Python.
-- 📫 How to reach me: [Skype](https://join.skype.com/invite/pNJfqrLQfYML)
+- 📫 How to reach me: [Skype](https://join.skype.com/invite/tccJPCcMgeHH)
 
 Here are the technologies and languages I work with:
 
